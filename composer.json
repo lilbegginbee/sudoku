@@ -1,5 +1,5 @@
 {
-  "name": "xeeeveee/sudoku",
+  "name": "lilbegginbee/sudoku",
   "description": "PHP sudoku logic library - Generate and solve sudoku puzzles",
   "type" : "library",
   "keywords": [
@@ -9,7 +9,7 @@
       "Solving",
       "Solver"
   ],
-  "homepage": "https://github.com/xeeeveee/sudoku",
+  "homepage": "https://github.com/lilbegginbee/sudoku",
   "license": "MIT",
   "authors": [
     {
