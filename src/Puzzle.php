@@ -1,6 +1,6 @@
 <?php
 
-namespace Xeeeveee\Sudoku;
+namespace Lilbegginbee\Sudoku;
 
 class Puzzle
 {
